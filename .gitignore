@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+.pytest_cache/
+data/raw/
+*.zip
+*.xlsx
+.DS_Store
